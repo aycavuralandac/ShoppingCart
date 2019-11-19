@@ -1,0 +1,14 @@
+
+\.DS_Store
+
+ShoppingCartApi/bin/Debug/netcoreapp2\.2/
+
+ShoppingCartApi/c:/temp/internal-nlog\.txt
+
+ShoppingCartApi/obj/Debug/netcoreapp2\.2/
+
+ShoppingCartApiTest/obj/
+
+ShoppingCartApiTest/bin/Debug/netstandard2\.0/
+
+ShoppingCartApi/obj/

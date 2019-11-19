@@ -1,0 +1,180 @@
+2019-11-12 23:50:54.1515 Info Message Template Auto Format enabled
+2019-11-12 23:50:54.1658 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-12 23:50:54.2293 Info Adding target File Target[allfile]
+2019-11-12 23:50:54.2594 Info Adding target File Target[ownFile-web]
+2019-11-12 23:50:54.2706 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-12 23:50:54.2917 Info Found 45 configuration items
+2019-11-13 00:00:31.3169 Info Logger closing down...
+2019-11-13 00:00:31.3204 Info Closing old configuration.
+2019-11-13 00:00:31.3321 Info Logger has been closed down.
+2019-11-13 00:00:31.3336 Info Shutting down logging...
+2019-11-13 00:00:31.3358 Info Logger has been shut down.
+2019-11-14 19:01:00.9274 Info Message Template Auto Format enabled
+2019-11-14 19:01:00.9421 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:01:01.0062 Info Adding target File Target[allfile]
+2019-11-14 19:01:01.0409 Info Adding target File Target[ownFile-web]
+2019-11-14 19:01:01.0520 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:01:01.0727 Info Found 45 configuration items
+2019-11-14 19:08:18.8658 Info Logger closing down...
+2019-11-14 19:08:18.8689 Info Closing old configuration.
+2019-11-14 19:08:18.8803 Info Logger has been closed down.
+2019-11-14 19:08:18.8818 Info Shutting down logging...
+2019-11-14 19:08:18.8837 Info Logger has been shut down.
+2019-11-14 19:09:29.8426 Info Message Template Auto Format enabled
+2019-11-14 19:09:29.8567 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:09:29.9255 Info Adding target File Target[allfile]
+2019-11-14 19:09:29.9304 Info Adding target File Target[ownFile-web]
+2019-11-14 19:09:29.9400 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:09:29.9633 Info Found 45 configuration items
+2019-11-14 19:13:17.1133 Info Logger closing down...
+2019-11-14 19:13:17.1161 Info Closing old configuration.
+2019-11-14 19:13:17.1262 Info Logger has been closed down.
+2019-11-14 19:13:17.1280 Info Shutting down logging...
+2019-11-14 19:13:17.1298 Info Logger has been shut down.
+2019-11-14 19:13:29.0602 Info Message Template Auto Format enabled
+2019-11-14 19:13:29.0741 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:13:29.1384 Info Adding target File Target[allfile]
+2019-11-14 19:13:29.1430 Info Adding target File Target[ownFile-web]
+2019-11-14 19:13:29.1529 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:13:29.1747 Info Found 45 configuration items
+2019-11-14 19:15:38.7591 Info Logger closing down...
+2019-11-14 19:15:38.7610 Info Closing old configuration.
+2019-11-14 19:15:38.7756 Info Logger has been closed down.
+2019-11-14 19:15:38.7785 Info Shutting down logging...
+2019-11-14 19:15:38.7819 Info Logger has been shut down.
+2019-11-14 19:15:49.9345 Info Message Template Auto Format enabled
+2019-11-14 19:15:49.9621 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:15:50.1302 Info Adding target File Target[allfile]
+2019-11-14 19:15:50.1336 Info Adding target File Target[ownFile-web]
+2019-11-14 19:15:50.1531 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:15:50.2048 Info Found 45 configuration items
+2019-11-14 19:21:34.7592 Info Logger closing down...
+2019-11-14 19:21:34.7625 Info Closing old configuration.
+2019-11-14 19:21:34.7745 Info Logger has been closed down.
+2019-11-14 19:21:34.7756 Info Shutting down logging...
+2019-11-14 19:21:34.7773 Info Logger has been shut down.
+2019-11-14 19:22:03.3579 Info Message Template Auto Format enabled
+2019-11-14 19:22:03.3726 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:22:03.4805 Info Adding target File Target[allfile]
+2019-11-14 19:22:03.4981 Info Adding target File Target[ownFile-web]
+2019-11-14 19:22:03.5081 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:22:03.5347 Info Found 45 configuration items
+2019-11-14 19:24:25.7604 Info Message Template Auto Format enabled
+2019-11-14 19:24:25.7761 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:24:25.8861 Info Adding target File Target[allfile]
+2019-11-14 19:24:25.9023 Info Adding target File Target[ownFile-web]
+2019-11-14 19:24:25.9130 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:24:25.9381 Info Found 45 configuration items
+2019-11-14 19:28:00.4769 Info Message Template Auto Format enabled
+2019-11-14 19:28:00.4933 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:28:00.5978 Info Adding target File Target[allfile]
+2019-11-14 19:28:00.6116 Info Adding target File Target[ownFile-web]
+2019-11-14 19:28:00.6226 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:28:00.6440 Info Found 45 configuration items
+2019-11-14 19:28:59.1731 Info Message Template Auto Format enabled
+2019-11-14 19:28:59.1905 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:28:59.3019 Info Adding target File Target[allfile]
+2019-11-14 19:28:59.3195 Info Adding target File Target[ownFile-web]
+2019-11-14 19:28:59.3299 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:28:59.3571 Info Found 45 configuration items
+2019-11-14 19:30:50.7401 Info Message Template Auto Format enabled
+2019-11-14 19:30:50.7577 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:30:50.8208 Info Adding target File Target[allfile]
+2019-11-14 19:30:50.8232 Info Adding target File Target[ownFile-web]
+2019-11-14 19:30:50.8328 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:30:50.8558 Info Found 45 configuration items
+2019-11-14 19:32:38.1119 Info Message Template Auto Format enabled
+2019-11-14 19:32:38.1331 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:32:38.2375 Info Adding target File Target[allfile]
+2019-11-14 19:32:38.2538 Info Adding target File Target[ownFile-web]
+2019-11-14 19:32:38.2648 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:32:38.2885 Info Found 45 configuration items
+2019-11-14 19:32:53.1242 Info Logger closing down...
+2019-11-14 19:32:53.1262 Info Closing old configuration.
+2019-11-14 19:32:53.1388 Info Logger has been closed down.
+2019-11-14 19:32:53.1407 Info Shutting down logging...
+2019-11-14 19:32:53.1436 Info Logger has been shut down.
+2019-11-14 19:33:03.6234 Info Message Template Auto Format enabled
+2019-11-14 19:33:03.6396 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:33:03.7434 Info Adding target File Target[allfile]
+2019-11-14 19:33:03.7581 Info Adding target File Target[ownFile-web]
+2019-11-14 19:33:03.7679 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:33:03.7934 Info Found 45 configuration items
+2019-11-14 19:35:47.9155 Info Message Template Auto Format enabled
+2019-11-14 19:35:47.9296 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:35:47.9883 Info Adding target File Target[allfile]
+2019-11-14 19:35:47.9927 Info Adding target File Target[ownFile-web]
+2019-11-14 19:35:48.0022 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:35:48.0261 Info Found 45 configuration items
+2019-11-14 19:39:37.0490 Info Logger closing down...
+2019-11-14 19:39:37.0513 Info Closing old configuration.
+2019-11-14 19:39:37.0665 Info Logger has been closed down.
+2019-11-14 19:39:37.0683 Info Shutting down logging...
+2019-11-14 19:39:37.0713 Info Logger has been shut down.
+2019-11-14 19:56:29.1182 Info Message Template Auto Format enabled
+2019-11-14 19:56:29.1321 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 19:56:29.1957 Info Adding target File Target[allfile]
+2019-11-14 19:56:29.1998 Info Adding target File Target[ownFile-web]
+2019-11-14 19:56:29.2114 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 19:56:29.2334 Info Found 45 configuration items
+2019-11-14 20:01:53.7630 Info Logger closing down...
+2019-11-14 20:01:53.7676 Info Closing old configuration.
+2019-11-14 20:01:53.7806 Info Logger has been closed down.
+2019-11-14 20:01:53.7819 Info Shutting down logging...
+2019-11-14 20:01:53.7837 Info Logger has been shut down.
+2019-11-14 20:01:59.1716 Info Message Template Auto Format enabled
+2019-11-14 20:01:59.1856 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:01:59.2547 Info Adding target File Target[allfile]
+2019-11-14 20:01:59.2576 Info Adding target File Target[ownFile-web]
+2019-11-14 20:01:59.2675 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:01:59.2891 Info Found 45 configuration items
+2019-11-14 20:02:57.1328 Info Logger closing down...
+2019-11-14 20:02:57.1379 Info Closing old configuration.
+2019-11-14 20:02:57.1553 Info Logger has been closed down.
+2019-11-14 20:02:57.1568 Info Shutting down logging...
+2019-11-14 20:02:57.1589 Info Logger has been shut down.
+2019-11-14 20:03:15.1121 Info Message Template Auto Format enabled
+2019-11-14 20:03:15.1264 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:03:15.1952 Info Adding target File Target[allfile]
+2019-11-14 20:03:15.2000 Info Adding target File Target[ownFile-web]
+2019-11-14 20:03:15.2101 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:03:15.2318 Info Found 45 configuration items
+2019-11-14 20:06:39.7443 Info Logger closing down...
+2019-11-14 20:06:39.7467 Info Closing old configuration.
+2019-11-14 20:06:39.7584 Info Logger has been closed down.
+2019-11-14 20:06:39.7598 Info Shutting down logging...
+2019-11-14 20:06:39.7616 Info Logger has been shut down.
+2019-11-14 20:09:55.9532 Info Message Template Auto Format enabled
+2019-11-14 20:09:55.9672 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:09:56.0284 Info Adding target File Target[allfile]
+2019-11-14 20:09:56.0320 Info Adding target File Target[ownFile-web]
+2019-11-14 20:09:56.0416 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:09:56.0640 Info Found 45 configuration items
+2019-11-14 20:10:52.3378 Info Message Template Auto Format enabled
+2019-11-14 20:10:52.3540 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:10:52.4585 Info Adding target File Target[allfile]
+2019-11-14 20:10:52.4729 Info Adding target File Target[ownFile-web]
+2019-11-14 20:10:52.4828 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:10:52.5065 Info Found 45 configuration items
+2019-11-14 20:11:00.6021 Info Logger closing down...
+2019-11-14 20:11:00.6038 Info Closing old configuration.
+2019-11-14 20:11:00.6138 Info Logger has been closed down.
+2019-11-14 20:11:00.6157 Info Shutting down logging...
+2019-11-14 20:11:00.6178 Info Logger has been shut down.
+2019-11-14 20:11:13.4805 Info Message Template Auto Format enabled
+2019-11-14 20:11:13.4955 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:11:13.6002 Info Adding target File Target[allfile]
+2019-11-14 20:11:13.6142 Info Adding target File Target[ownFile-web]
+2019-11-14 20:11:13.6239 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:11:13.6489 Info Found 45 configuration items
+2019-11-14 20:15:10.1437 Info Message Template Auto Format enabled
+2019-11-14 20:15:10.1598 Info Loading assembly: NLog.Web.AspNetCore
+2019-11-14 20:15:10.2277 Info Adding target File Target[allfile]
+2019-11-14 20:15:10.2315 Info Adding target File Target[ownFile-web]
+2019-11-14 20:15:10.2423 Info Configured from an XML element in /Users/aycavural/ShoppingCartApi/bin/Debug/netcoreapp2.2/nlog.config...
+2019-11-14 20:15:10.2627 Info Found 45 configuration items
+2019-11-14 20:16:34.3709 Info Logger closing down...
+2019-11-14 20:16:34.3743 Info Closing old configuration.
+2019-11-14 20:16:34.3965 Info Logger has been closed down.
+2019-11-14 20:16:34.3990 Info Shutting down logging...
+2019-11-14 20:16:34.4016 Info Logger has been shut down.
